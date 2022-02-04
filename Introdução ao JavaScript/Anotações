@@ -1,0 +1,35 @@
+Principais conceitos
+
+JavaScript é uma linguagem de programação interpretada. Foi originalmente implementada como parte dos navegadores web para que scripts pudessem ser executados do lado do cliente e interagissem com o usuário sem a necessidade deste script passar pelo servidor, controlando o navegador, realizando comunicação assíncrona e alterando o conteúdo do documento exibido.
+
+Inserindo o código JavaScript na página HTML
+
+Os códigos JavaScript podem ser inseridos na página HTML de duas formas:
+
+Interno no documento: para inserir o código direto na estrutura do HTML, utilizamos as tags <script> e </script>
+
+Externo ao documento: o código JavaScript também pode ser mantido em um arquivo separado do HTML. Para isso, deve-se referenciar tal arquivo na página
+
+JavaScript foi criada com base na ECMAScript e sua sintaxe é bastante semelhante a linguagens de alto nível muito utilizadas como C e Java, como veremos a seguir.
+
+Usando variáveis no JavaScript
+
+Essa linguagem possui tipagem dinâmica, ou seja, não é necessário definir o tipo das variáveis ao declará-las, para isso basta usar a palavra reservada var.
+
+Trabalhando com funções
+
+JavaScript fornece também suporte a funções, aliado às facilidades da tipagem dinâmica, o que torna a definição de métodos simples e prática. Para criar funções, utilizamos a palavra reservada function.
+
+Estruturas de controle de fluxo
+
+Assim como a maioria das linguagens de alto nível, JavaScript possui estruturas condicionais e de repetição para controle de fluxo (if, else, while, swith, for, etc).
+
+
+
+
+
+
+
+
+
+

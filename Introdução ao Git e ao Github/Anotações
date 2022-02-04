@@ -1,5 +1,41 @@
 Link para download do Git: https://git-scm.com/downloads
 
+#Conceitos importantes
+
+GIT é um sistema de controle de versão, também conhecido pela sigla VCS –  version control system. VCS são uma ótima forma de otimizar o trabalho ao analisar as alterações feitas em um código de projeto compartilhado, além de ser um componente fundamental do sistema de gerenciamento de configuração de software que cuida das mudanças que precisam ser feitas em um projeto.
+
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Como Usar
+
+Para transformar qualquer diretório em um repositório GIT
+
+$ git init <directory>
+
+Se você já tem um diretório e deseja verificar(cloná-lo), você pode usar o comando git clone
+
+$ git clone "endereço do original"
+
+Alterações ou adições de arquivos propostas são adicionadas ao índice usando o comando add
+
+$ git add <nome_do_arquivo>
+
+Se você está realmente confiante o suficiente para fazer essas mudanças no HEAD, então você pode usar o comando commit:
+
+$ git commit –m “Adicionar qualquer mensagem sobre o commit aqui”
+
+Depois de confirmar as alterações (e acreditar que elas estão prontas para serem enviadas para o repositório original), você pode usar o comando push.
+
+$ git push origin master
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,0 +1,29 @@
+Conceitos principais
+
+A lógica de programação é a capacidade que todo programador precisa ter para resolver os problemas que aparecem no dia-a-dia. A capacidade de dividir o problema em partes menores é uma etapa essencial da lógica de programação e precisa ser levada em consideração quando nos deparamos com qualquer exercício/desafio. É nesse ponto que entra o conceito de algoritmo, descrito, geralmente, como uma sequência lógica de ações capaz de resolver um problema.
+
+Lógica de Programação é uma técnica que permite você desenvolver uma sequência de instruções que visam atingir um determinado objetivo
+
+O algoritmo é a própria sequência de instruções que irão permitir você atingir seu objetivo. Ela basicamente é o mapa, roteiro, guia que vai permitir a máquina compreender o que deve ser feito.
+
+EX:
+
+Início
+ 1. Pegue 1 pão
+ 2. Pegue uma faca
+ 3. Abra o pão ao meio utilizando a faca
+ 4. Pegue o pote de manteiga
+ 5. Abra o pote de manteiga
+ 6. Use a faca para passar a manteiga na parte interna do pão
+ 7. Feche o pote de manteiga
+ 8. Feche o pão
+ 9. Sirva o pão
+Fim
+
+Tipos de Dados, Variáveis, Constantes
+
+Dentro dos dados primitivos, teremos quatro categorias: Texto, Inteiro, Real e Lógico. O primeiro possibilita trabalhar com uma sequência de caracteres, o segundo apenas com números inteiros negativos ou positivos, o terceiro com todo e qualquer número real e o quarto com alternativas, sim ou não, verdadeiro ou falso etc.
+
+Existem outros tipos de dados, como o composto, estático, dinâmico, forte e fraco.
+
+

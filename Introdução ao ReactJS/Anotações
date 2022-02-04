@@ -1,0 +1,17 @@
+Principais conceitos
+
+O React.js é a estrutura JavaScript de front-end mais popular. Os desenvolvedores usam o JSX, uma combinação de HTML e JavaScript, para criar exibições de forma natural. Eles também podem criar componentes para blocos que podem ser reutilizados em seus aplicativos.
+
+
+O React é uma estrutura open-source para criar interfaces do usuário. Ele é conhecido por criar aplicativos Web. Mas o React pode ser usado para criar aplicativos móveis ou da área de trabalho por meio do React Native. O React foca na Exibição no Model-View-Controller. Portanto, você pode usar outras bibliotecas para roteamento, gerenciamento de estado e acesso a APIs.
+
+links úteis
+
+https://pt-br.reactjs.org/
+
+
+https://docs.microsoft.com/pt-br/learn/modules/react-get-started/1-introduction
+
+
+
+

@@ -1,0 +1,73 @@
+Conceitos principais
+
+HTML5 (HiperText Markup Language) é uma linguagem criada como evolução ao HTML. Ela possui novos atributos, comportamentos e elementos, além de fazer uso de mais tecnologia para o desenvolvimento de web sites e aplicações.
+
+Com quase três décadas de existência, o HTML é uma linguagem de marcação e hipertexto usada por desenvolvedores para criação de páginas na web. Desde a sua criação em 1991, a linguagem HTML ganhou rápida atenção mundial e hoje é uma das principais linguagens do mundo e os melhores web sites desenvolvidos atualmente são frutos dos códigos HTML.
+
+Principais tags HTML
+
+As tags são usadas para informar ao navegador a estrutura do site. Ou seja: quando se escreve um código em HTML, as tags serão interpretadas pelo navegador, produzindo assim a estrutura e o conteúdo visual da página.
+
+   <html></html> – Esta tag é o elemento básico da estrutura do HTML. Assim sendo, ela conterá todos os elementos do seu documento. Todo documento HTML deve iniciar e finalizar com essa tag;
+
+   <head></head> – Essa tag delimita o cabeçalho do documento. Não possui nenhum valor visível, porém é capaz de transmitir ao navegador diversas informações muito úteis e essenciais a uma boa apresentação do seu documento HTML;
+
+   <title></title> – Essa tag define o título da sua página, o nome que aparecerá na sua aba, janela ou guia. Por esta razão, a tag >title> é de grande importância para o SEO;
+
+   <meta/> – Essa tag permite inserir metadados ao seu documento, no caso acima, a informação charset=”UTF-8″, que garante a compatibilidade do código com os caracteres de padrão latino americano;
+
+   <body></body> – Finalmente, a tag que representa o corpo do documento. Em síntese, é nessa tag que todos os elementos visíveis do seu site devem ser inseridos.
+
+    <header></header> – Essas tags definem um cabeçalho. Portanto, todo conteúdo que estiver dentro dela faz parte de um cabeçalho, podendo ser utilizado dentro de outras sessões. Não confundir com as tags <head>;
+
+    <main></main> – Essas tags representam o conteúdo principal do seu corpo, ou seja, o conteúdo relacionado diretamente com o tópico central da página ou com a funcionalidade central da aplicação;
+
+    <footer></footer> – Essas tags definem um rodapé para a página, geralmente utilizadas no final da página;
+
+    <section></section> – Essas tags definem uma sessão para sua página;
+
+    <article></article> – Essas tags definem um artigo da sua página. Nesse sentido, são utilizadas para separar o conteúdo da sua página. Muito utilizado principalmente por blogs ou páginas de conteúdo;
+
+    <aside></aside> – Essas tags representam uma seção de uma página cujo conteúdo é tangencialmente relacionado ao conteúdo do seu entorno, que poderia ser considerado separado do conteúdo;
+
+    <nav></nav> – Essa tag define um conteúdo de navegação. Portanto, é muito utilizado em conjunto com listas e na criação de menus;
+
+    <div></div> – Define uma divisão da página. Desta forma, funciona como um container para conteúdo de fluxo. Uma vez que não possui um valor semântico, é muito utilizado para organizar melhor o conteúdo. Anteriormente ao HTML5, era utilizado no lugar das categorias acima.
+
+
+Os atributos são usados para personalizar as tags, modificando sua estrutura ou funcionalidade. Igualmente, os atributos são utilizados para atribuir uma classe ou id a um elemento.
+
+
+    class=”…“ – Atribui uma classe ao elemento (uma classe pode ser utilizada para um ou mais elementos);
+
+    id=”…“ – Atribui um id ao elemento (um id deve ser único, ou seja atribuído a um único elemento);
+
+    style=”…” – Permite incluir elementos CSS (estilos) dentro da tag;
+
+    lang=”…” – Define o idioma principal do elemento;
+
+    title=”…” – Define o título do elemento;
+
+    alt=”…” – Define um texto alternativo e, por isso, é muito utilizado em imagens, auxilia nas práticas de SEO;
+
+    hidden – Oculta o elemento;
+
+    align=”…” – Permite definir o padrão de alinhamento desse elemento, como por exemplo: right, center, left e justify;
+
+    width=”…” – Define uma largura para o elemento;
+
+    height=”…” – Define uma altura para o elemento.
+
+
+
+Links úteis:
+
+WC3 - https://www.w3schools.com/tags/
+
+
+
+
+
+
+
+
