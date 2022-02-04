@@ -4,6 +4,7 @@ Repositório criado para o desafio de projeto. Este repositório será usado par
 ## Links Úteis
 
 [Síntaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Introdução ao ReactJS(https://pt-br.reactjs.org/tutorial/tutorial.html)
+
+[Introdução ao ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
 
